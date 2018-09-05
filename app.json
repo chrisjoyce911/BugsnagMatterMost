@@ -1,6 +1,6 @@
 {
   "name": "bugsnagmattermost backend API",
-  "description": "GoLang API for bugsnagmattermost ",
-  "website": "https://github.com/chrisjoyce911/propbook-backend",
-  "repository": "https://github.com/chrisjoyce911/propbook-backend"
+  "description": "GoLang API for bugsnagmattermost",
+  "website": "https://github.com/chrisjoyce911/bugsnagmattermost",
+  "repository": "https://github.com/chrisjoyce911/bugsnagmattermost"
 }
